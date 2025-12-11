@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ProjetChurn/bank-churn-mlops/mlruns/520542746030246158/332a2ebfc1e04f8fbe21292905117022/artifacts
+end_time: 1764728223557
+entry_point_name: ''
+experiment_id: '520542746030246158'
+lifecycle_stage: active
+run_id: 332a2ebfc1e04f8fbe21292905117022
+run_name: random-forest-v1
+run_uuid: 332a2ebfc1e04f8fbe21292905117022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764728208499
+status: 3
+tags: []
+user_id: MSI
